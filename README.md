@@ -31,7 +31,7 @@ Implementing the Smart Poultry System can significantly enhance the efficiency a
 ## Team Members
 - **B11 - Selviani Amalia Kartika**,   
 - **B12 - David Giofani**, 
-- **B13 - Tirza Febiana Widjajanto**,   
+- **B13 - Tirza Febiana Widjajanto**,  an Informatics Student at Universitas Sam Ratulangi Manado   
 - **B14 - Nadya Fimatul Fadilah**, an Informatics Student at Universitas Bhinneka PGRI Tulungagung
 - **B15 - Nanda Laily Fatimah Anwar**, an Information Systems Student at Universitas Komputer Indonesia
 
